@@ -3,7 +3,7 @@
 All notable changes to this project will be documented in this file.
 This project adheres to [Semantic Versioning](https://semver.org/).
 
-## [5.7.0](https://github.com/countries/countries/releases/tag/v5.7.0') (2023/10/07 10:57 +00:00)
+## [5.7.0](https://github.com/countries/countries/releases/tag/v.5.7.0) (2023/10/07 10:57 +00:00)
 
 **New Feature:**
 * Add distance_unit attribute to countries data [\#820](https://github.com/countries/countries/pull/820) ([dwtong](https://github.com/dwtong))
@@ -14,12 +14,12 @@ This project adheres to [Semantic Versioning](https://semver.org/).
 * Remove duplicate key in subdivisions/US.yaml [\#822](https://github.com/countries/countries/pull/822) ([pioz](https://github.com/pioz))
 
 
-## [5.6.0](https://github.com/countries/countries/releases/tag/v5.6.0') (2023/08/01 14:00 +00:00)
+## [5.6.0](https://github.com/countries/countries/releases/tag/v.5.6.0) (2023/08/01 14:00 +00:00)
 
 * Fix Taiwan's iso_long_name not matching ISO data. [\#810](https://github.com/countries/countries/pull/810) ([pmor](https://github.com/pmor))
 * Wrap postal code format regex in anchors [\#814](https://github.com/countries/countries/pull/814) ([pmor](https://github.com/pmor))
 
-## [5.5.0](https://github.com/countries/countries/releases/tag/v5.5.0') (2023/06/17 16:20 +00:00)
+## [5.5.0](https://github.com/countries/countries/releases/tag/v.5.5.0) (2023/06/17 16:20 +00:00)
 
 * Added G20 and G7 member fields [\#799](https://github.com/countries/countries/pull/799) ([AndromedaSugar](https://github.com/AndromedaSugar))
 * Update subdivision translations from CLDR [\#802](https://github.com/countries/countries/pull/802) ([pmor](https://github.com/pmor))
@@ -27,17 +27,17 @@ This project adheres to [Semantic Versioning](https://semver.org/).
 * Add Japanese translation to subdivisions data  [\#804](https://github.com/countries/countries/pull/804) ([shucream-p](https://github.com/shucream-p))
 * Adding gdpr_compliant method to check if a country is regulated by GDPR [\#807](https://github.com/countries/countries/pull/807) ([yeseniamolinab](https://github.com/yeseniamolinab))
 
-## [5.4.0](https://github.com/countries/countries/releases/tag/v5.4.0') (2023/04/12 12:44 +00:00)
+## [5.4.0](https://github.com/countries/countries/releases/tag/v.5.4.0) (2023/04/12 12:44 +00:00)
 
 * fix: RUP are part of the European Union [\#794](https://github.com/countries/countries/pull/794) ([btrd](https://github.com/btrd))
 * Fix wrong translation of MY in gn locale [\#798](https://github.com/countries/countries/pull/798) ([pmor](https://github.com/pmor))
 * Add EU VAT Area membership [\#796](https://github.com/countries/countries/pull/796) ([pmor](https://github.com/pmor))
 
-## [5.3.2](https://github.com/countries/countries/releases/tag/v5.3.2') (2023/03/31 13:46 +00:00)
+## [5.3.2](https://github.com/countries/countries/releases/tag/v.5.3.2) (2023/03/31 13:46 +00:00)
 
 * Add Japanese translation for Czechia, North Macedonia and Eswatini [\#795](https://github.com/countries/countries/pull/795) ([nmbakfm](https://github.com/nmbakfm))
 
-## [5.3.1](https://github.com/countries/countries/releases/tag/v5.3.1') (2023/01/26 14:05 +00:00)
+## [5.3.1](https://github.com/countries/countries/releases/tag/v.5.3.1) (2023/01/26 14:05 +00:00)
 
 * Update countries-th.yaml [\#792](https://github.com/countries/countries/pull/792) ([worrawutp](https://github.com/worrawutp))
 * Fix [\#765](https://github.com/countries/countries/issues/765) - Restore `Australia` as first unnoficial name for Australia ([pmor](https://github.com/pmor))
@@ -45,7 +45,7 @@ This project adheres to [Semantic Versioning](https://semver.org/).
 
 **Full Changelog**: https://github.com/countries/countries/compare/v5.3.0...v5.3.1
 
-## [5.3.0](https://github.com/countries/countries/releases/tag/v5.3.0') (2023/01/03 17:02 +00:00)
+## [5.3.0](https://github.com/countries/countries/releases/tag/v.5.3.0) (2023/01/03 17:02 +00:00)
 
 **Merged pull requests:**
 
@@ -53,7 +53,7 @@ This project adheres to [Semantic Versioning](https://semver.org/).
 * Update data for Turkmenistan and add Turkmen translation [\#789](https://github.com/countries/countries/pull/789) ([msuliq](https://github.com/msuliq))
 * Add Country#subdivision_names method [\#788](https://github.com/countries/countries/pull/788) ([pmor](https://github.com/pmor))
 
-## [5.2.1](https://github.com/countries/countries/releases/tag/v5.2.1') (2022/12/22 15:29 +00:00)
+## [5.2.1](https://github.com/countries/countries/releases/tag/v.5.2.1) (2022/12/22 15:29 +00:00)
 
 **Important changes**
 
@@ -77,7 +77,7 @@ This project adheres to [Semantic Versioning](https://semver.org/).
 * Duplicate `I18n.available_locales` into `default_locales` [\#785](https://github.com/countries/countries/pull/785) ([pmor](https://github.com/pmor))
 
 
-## [5.2.0](https://github.com/countries/countries/releases/tag/v5.2.0') (2022/10/28 14:35 +00:00)
+## [5.2.0](https://github.com/countries/countries/releases/tag/v.5.2.0) (2022/10/28 14:35 +00:00)
 
 **Important changes**
 
@@ -96,14 +96,14 @@ This project adheres to [Semantic Versioning](https://semver.org/).
 * Updated Taiwan unofficial names [\#772](https://github.com/countries/countries/pull/772) ([Tzenda](https://github.com/Tzenda))
 * Replace sixarm_ruby_unaccent with unaccent [\#767](https://github.com/countries/countries/pull/767) ([jonian](https://github.com/jonian))
 
-## [5.1.2](https://github.com/countries/countries/releases/tag/v5.1.2') (2022/08/11 14:35 +00:00)
+## [5.1.2](https://github.com/countries/countries/releases/tag/v.5.1.2) (2022/08/11 14:35 +00:00)
 
 **Merged pull requests:**
 
 * Missing unofficial translations, addresses the remaining translations in [\#580](https://github.com/countries/countries/issues/580) -  [\#764](https://github.com/countries/countries/pull/764) ([pmor](https://github.com/pmor))
 
 
-## [5.1.1](https://github.com/countries/countries/releases/tag/v5.1.1') (2022/07/18 09:10 +00:00)
+## [5.1.1](https://github.com/countries/countries/releases/tag/v.5.1.1) (2022/07/18 09:10 +00:00)
 
 **Important changes**
 
@@ -115,7 +115,7 @@ This project adheres to [Semantic Versioning](https://semver.org/).
 * Add an alternative name for USVI lookup [\#763](https://github.com/countries/countries/pull/763) ([tadejm](https://github.com/tadejm))
 
 
-## [5.1.0](https://github.com/countries/countries/releases/tag/v5.1.0') (2022/06/27 07:50 +00:00)
+## [5.1.0](https://github.com/countries/countries/releases/tag/v.5.1.0) (2022/06/27 07:50 +00:00)
 
 **Important changes**
 
@@ -130,21 +130,21 @@ This project adheres to [Semantic Versioning](https://semver.org/).
 * Update subdivision YAML with codes [\#757](https://github.com/countries/countries/pull/757) ([pmor](https://github.com/pmor))
 * Add subdivision types from ISO3166-2 [\#758](https://github.com/countries/countries/pull/758) ([pmor](https://github.com/pmor))
 
-## [5.0.2](https://github.com/countries/countries/releases/tag/v5.0.2') (2022/06/02 20:01 +00:00)
+## [5.0.2](https://github.com/countries/countries/releases/tag/v.5.0.2) (2022/06/02 20:01 +00:00)
 
 **Merged pull requests:**
 
 * Fix common name for IR [\#754](https://github.com/countries/countries/pull/754) ([pmor](https://github.com/pmor))
 * Update MX subdivisions: Remove DIF and update some unofficial names [\#755](https://github.com/countries/countries/pull/755) ([pmor](https://github.com/pmor))
 
-## [5.0.1](https://github.com/countries/countries/releases/tag/v5.0.1') (2022/05/02 12:03 +00:00)
+## [5.0.1](https://github.com/countries/countries/releases/tag/v.5.0.1) (2022/05/02 12:03 +00:00)
 
 **Merged pull requests:**
 
 * Added subdivision_names_with_codes method in documentation [\#747](https://github.com/countries/countries/pull/747) ([arymoraes](https://github.com/arymoraes))
 * Corrected Portuguese subdivision names [\#748](https://github.com/countries/countries/pull/748) ([FilipaDurao](https://github.com/FilipaDurao))
 
-## [5.0.0](https://github.com/countries/countries/releases/tag/v5.0.0') (2022/04/03 17:44 +00:00)
+## [5.0.0](https://github.com/countries/countries/releases/tag/v.5.0.0) (2022/04/03 17:44 +00:00)
 
 **Breaking Changes**
 
@@ -156,14 +156,14 @@ This project adheres to [Semantic Versioning](https://semver.org/).
 - Drop support for Ruby 2.5 and 2.6 [\#708](https://github.com/countries/countries/pull/708) ([pmor](https://github.com/pmor))
 - Remove deprecated attributes; Add new `#find_by_any_name` finder [\#745](https://github.com/countries/countries/pull/708) ([pmor](https://github.com/pmor))
 
-## [4.2.3](https://github.com/countries/countries/releases/tag/v4.2.2) (2022/03/24 11:00 +00:00)
+## [4.2.3](https://github.com/countries/countries/releases/tag/v.4.2.2) (2022/03/24 11:00 +00:00)
 
 **IMPORTANT NOTE: This will be be the last release of the 4.x series, and the last one to support Ruby 2.5 and 2.6**
 
 * Use bundle add instead [\#743](https://github.com/countries/countries/pull/743) ([glaucocustodio](https://github.com/glaucocustodio))
 * update i18n_data [\#742](https://github.com/countries/countries/pull/742) ([bonekost](https://github.com/bonekost))
 
-## [4.2.2](https://github.com/countries/countries/releases/tag/v4.2.2) (2022/02/17 13:52 +00:00)
+## [4.2.2](https://github.com/countries/countries/releases/tag/v.4.2.2) (2022/02/17 13:52 +00:00)
 
 **Merged pull requests:**
 
@@ -178,12 +178,12 @@ This project adheres to [Semantic Versioning](https://semver.org/).
 
 **Full Changelog**: https://github.com/countries/countries/compare/v4.2.1...v4.2.2
 
-## [4.2.1](https://github.com/countries/countries/releases/tag/v4.2.1) (2022/01/11 12:39 +00:00)
+## [4.2.1](https://github.com/countries/countries/releases/tag/v.4.2.1) (2022/01/11 12:39 +00:00)
 
 - Missing update to cache files on release 4.2.0
 - Update postal code regexes from rake task [\#734](https://github.com/countries/countries/pull/734 ) ([cover](https://github.com/cover))
 
-## [4.2.0](https://github.com/countries/countries/releases/tag/v4.2.0) (2022/01/11 11:04 +00:00)
+## [4.2.0](https://github.com/countries/countries/releases/tag/v.4.2.0) (2022/01/11 11:04 +00:00)
 
 **Deprecations**
 
@@ -220,7 +220,7 @@ This project adheres to [Semantic Versioning](https://semver.org/).
 * Translations for CZ-10 are defined twice [\#732](https://github.com/countries/countries/issues/732)
 
 
-## [4.1.3](https://github.com/countries/countries/releases/tag/v4.1.2) (2022/01/03 12:16 +00:00)
+## [4.1.3](https://github.com/countries/countries/releases/tag/v.4.1.2) (2022/01/03 12:16 +00:00)
 
 **Merged pull requests:**
 
@@ -230,7 +230,7 @@ This project adheres to [Semantic Versioning](https://semver.org/).
 
 * Subdivision translations for some latvian subdivisions nil in countries 4.1.2 [\#718](https://github.com/countries/countries/issues/718)
 
-## [4.1.2](https://github.com/countries/countries/releases/tag/v4.1.2) (2021/12/20 17:06 +00:00)
+## [4.1.2](https://github.com/countries/countries/releases/tag/v.4.1.2) (2021/12/20 17:06 +00:00)
 
 **Merged pull requests:**
 
@@ -240,14 +240,14 @@ This project adheres to [Semantic Versioning](https://semver.org/).
 * Update translation corrections for Occitan.[\#713](https://github.com/countries/countries/pull/713) ([pmor](https://github.com/pmor))
 * Update i18n_data to 0.15.0 [\#715](https://github.com/countries/countries/pull/715) ([pmor](https://github.com/pmor))
 
-## [4.1.1](https://github.com/countries/countries/releases/tag/v4.1.1) (2021/12/06 13:31 +00:00)
+## [4.1.1](https://github.com/countries/countries/releases/tag/v.4.1.1) (2021/12/06 13:31 +00:00)
 
 **Merged pull requests:**
 
 * Fix ISO3166::Country respond_to_missing? [\#625](https://github.com/countries/countries/pull/625) ([biinari](https://github.com/biinari))
 * Revert subdivision changes to NO.yaml [\#709](https://github.com/countries/countries/pull/709) ([pmor](https://github.com/pmor))
 
-## [4.1.0](https://github.com/countries/countries/releases/tag/v4.1.0) (2021/11/30 09:44 +00:00)
+## [4.1.0](https://github.com/countries/countries/releases/tag/v.4.1.0) (2021/11/30 09:44 +00:00)
 
 **New features:**
 
@@ -265,7 +265,7 @@ This project adheres to [Semantic Versioning](https://semver.org/).
 - Refresh subdivision data from CLDR  [\#704](https://github.com/countries/countries/pull/704) ([pmor](https://github.com/pmor))
 - Update I18nData gem to 0.13.1 and fix MK translation in `mk` locale [\#705](https://github.com/countries/countries/pull/705) ([pmor](https://github.com/pmor))
 
-## [4.0.1](https://github.com/countries/countries/releases/tag/v4.0.1) (2021/07/19 14:47 +01:00)
+## [4.0.1](https://github.com/countries/countries/releases/tag/v.4.0.1) (2021/07/19 14:47 +01:00)
 
 **Closed issues:**
 
@@ -279,7 +279,7 @@ This project adheres to [Semantic Versioning](https://semver.org/).
 - Fix regression in `ISO3166::Country.translations` with symbols [\#692](https://github.com/countries/countries/pull/692) ([pmor](https://github.com/pmor))
 
 
-## [4.0.0](https://github.com/countries/countries/releases/tag/v4.0.0) (2021/06/11 09:47 +01:00)
+## [4.0.0](https://github.com/countries/countries/releases/tag/v.4.0.0) (2021/06/11 09:47 +01:00)
 
 [Full changelog](https://github.com/countries/countries/compare/v3.1.0...v4.0.0)
 
@@ -310,7 +310,7 @@ This project adheres to [Semantic Versioning](https://semver.org/).
  - Fix ISO3166::Data.register loading of nested hashes, eg: geo data. [\#683](https://github.com/countries/countries/pull/683) ([pmor](https://github.com/pmor))
  - Remove Travis CI configuration. [\#685](https://github.com/countries/countries/pull/683) ([pmor](https://github.com/pmor))
 
-## [3.1.0](https://github.com/countries/countries/releases/tag/v3.1.0) (2021/03/24 00:01 +05:00)
+## [3.1.0](https://github.com/countries/countries/releases/tag/v.3.1.0) (2021/03/24 00:01 +05:00)
 
 [Full Changelog](https://github.com/countries/countries/compare/v3.0.1...v3.1.0)
 
@@ -352,7 +352,7 @@ This project adheres to [Semantic Versioning](https://semver.org/).
 - added CL standard VAT [\#578](https://github.com/countries/countries/pull/578) ([tiagomatos](https://github.com/tiagomatos))
 - Remove Puerto Rico subdivisions [\#539](https://github.com/countries/countries/pull/539) ([philipefarias](https://github.com/philipefarias))
 
-## [v3.0.1](https://github.com/countries/countries/releases/tag/v3.0.1) (2020/02/11 00:04 +05:00)
+## [v3.0.1](https://github.com/countries/countries/releases/tag/v.3.0.1) (2020/02/11 00:04 +05:00)
 
 [Full Changelog](https://github.com/hexorx/countries/compare/v3.0.0...v3.0.1)
 
